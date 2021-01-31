@@ -1,2 +1,2 @@
 # JoeC.XYZ
-Portfolio / Playground, hosted on a ESP8226 micro controller for a laugh.
+Playground hosted on an ESP8226 micro controller for a laugh.
